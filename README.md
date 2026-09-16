@@ -1,48 +1,63 @@
 # C-form
 
-Bu repository, C# ve Windows Forms kullanarak öğrenilen temel arayüz uygulamalarını içeren eğitim amaçlı bir projedir. Farklı konularda hazırlanmış örnekler sayesinde form tasarımı, olay yönetimi, buton işlemleri, veri girişleri ve arayüz geçişleri gibi temel beceriler geliştirilir.
+C# ve Windows Forms kullanılarak hazırlanmış, temel arayüz geliştirme konularını içeren eğitim amaçlı bir projedir. Repository içerisinde farklı konuları pekiştirmek için oluşturulmuş çeşitli Windows Forms uygulamaları yer almaktadır.
 
 ## İçerik
 
-Bu projede yer alan çözüm dosyaları şunlardır:
+Projede bulunan çözüm dosyaları:
 
-- ders1 yg.sln
-- formlar arası geçiş.sln
-- formlar arası geçiş 2.sln
-- hesap makinesi.sln
-- pizzacı 2.sln
-- renkler dünyası.sln
-- yunus hoca hesap makinesi.sln
+- `ders1 yg.sln`
+- `formlar arası geçiş.sln`
+- `formlar arası geçiş 2.sln`
+- `hesap makinesi.sln`
+- `pizzacı 2.sln`
+- `renkler dünyası.sln`
+- `yunus hoca hesap makinesi.sln`
 
-## Proje hakkında
+## Öğrenilen Konular
 
-Bu çalışma, C# ile WinForms uygulamaları öğrenmeye başlayan kişiler için hazırlanmış örnek uygulamalardan oluşur. İçerikte sıklıkla kullanılan konular arasında şunlar yer alır:
+Bu projede aşağıdaki temel C# ve Windows Forms konuları ele alınmaktadır:
 
-- Formlar arası geçiş
-- Buton ve olay yönetimi
-- Hesap makinesi yapısı
-- Metin kutusu ve kullanıcı girişleri
-- Başlık / etiket / panel tasarımı
-- Basit veri işleme ve arayüz kontrolü
-- Öğrenci ve eğitim odaklı örnek uygulamalar
+- Formlar arasında geçiş yapma
+- Buton kullanımı ve olay yönetimi
+- Hesap makinesi uygulaması geliştirme
+- Metin kutularından kullanıcı girdisi alma
+- Label, Panel ve diğer arayüz bileşenlerini kullanma
+- Renk ve form tasarımı
+- Basit veri işleme
+- Kullanıcı etkileşimlerini yönetme
 
-## Gerekli ortam
+## Gereksinimler
 
-- Visual Studio
-- C# geliştirme desteği
+Projeleri çalıştırmak için aşağıdaki yazılımlara ihtiyaç vardır:
+
 - Windows işletim sistemi
+- Visual Studio
+- C# ve Windows Forms geliştirme desteği
 
-## Nasıl çalıştırılır?
+Visual Studio kurulumu sırasında **.NET masaüstü geliştirme** iş yükünün seçili olduğundan emin olun.
 
-1. Repository'yi bilgisayarınıza klonlayın.
-2. Visual Studio ile ilgili `.sln` uzantılı çözüm dosyasını açın.
-3. Projeyi derleyin ve çalıştırın.
-4. Uygulama arayüzünü kullanarak örnekleri test edin.
+## Kurulum ve Çalıştırma
 
-## Amaç
+1. Repository'yi bilgisayarınıza klonlayın:
 
-Bu proje, C# ile form tabanlı uygulama geliştirme mantığını öğrenmek ve temel Windows Forms tasarım becerilerini pekiştirmek için oluşturulmuştur.
+   ```bash
+   git clone https://github.com/sevval-345/C-form.git
+   ```
+
+2. Proje klasörünü Visual Studio ile açın.
+3. Çalıştırmak istediğiniz `.sln` dosyasını seçin.
+4. Projeyi derlemek için **Build > Build Solution** seçeneğini kullanın.
+5. Uygulamayı çalıştırmak için **Start** düğmesine basın veya `F5` tuşuna basın.
+
+## Projenin Amacı
+
+Bu repository, C# ile masaüstü uygulaması geliştirmeye başlayan kişilerin Windows Forms yapısını öğrenmesine ve temel arayüz tasarımı becerilerini geliştirmesine yardımcı olmak amacıyla hazırlanmıştır.
 
 ## Not
 
-Bu repository eğitim ve pratik amaçlı hazırlanmıştır. Kodlar ve örnekler geliştikçe daha ileri seviyede projelere dönüştürülebilir.
+Bu proje eğitim ve pratik amaçlıdır. Yeni örnekler ve geliştirmeler eklendikçe içerik genişletilebilir.
+
+## Lisans
+
+Bu repository'de ayrıca bir lisans belirtilmemiştir.
