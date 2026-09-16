@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yunus hoca hesap makinesi", "yunus hoca hesap makinesi\yunus hoca hesap makinesi.csproj", "{3546C40A-F6C3-4F53-8FD9-566016A2EF63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3546C40A-F6C3-4F53-8FD9-566016A2EF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3546C40A-F6C3-4F53-8FD9-566016A2EF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3546C40A-F6C3-4F53-8FD9-566016A2EF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3546C40A-F6C3-4F53-8FD9-566016A2EF63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7068EDC0-2DE2-4368-8E32-50B0502E5916}
+	EndGlobalSection
+EndGlobal
