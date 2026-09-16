@@ -1,0 +1,18 @@
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar arsı geçiş.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar_arsı_geçiş.Form1.resources
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar_arsı_geçiş.Form2.resources
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar arsı geçiş.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar arsı geçiş.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar arsı geçiş.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar arsı geçiş.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar arsı geçiş.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\bin\Debug\net6.0-windows\formlar arsı geçiş.exe
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\bin\Debug\net6.0-windows\formlar arsı geçiş.deps.json
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\bin\Debug\net6.0-windows\formlar arsı geçiş.runtimeconfig.json
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\bin\Debug\net6.0-windows\formlar arsı geçiş.dll
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\bin\Debug\net6.0-windows\formlar arsı geçiş.pdb
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar arsı geçiş.dll
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\refint\formlar arsı geçiş.dll
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar arsı geçiş.pdb
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\formlar arsı geçiş.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\formlar arsı geçiş\formlar arsı geçiş\obj\Debug\net6.0-windows\ref\formlar arsı geçiş.dll

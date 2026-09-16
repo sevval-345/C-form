@@ -1,0 +1,36 @@
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\bin\Debug\net6.0-windows\formlar arası geçiş 2.exe
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\bin\Debug\net6.0-windows\formlar arası geçiş 2.deps.json
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\bin\Debug\net6.0-windows\formlar arası geçiş 2.runtimeconfig.json
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\bin\Debug\net6.0-windows\formlar arası geçiş 2.dll
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\bin\Debug\net6.0-windows\formlar arası geçiş 2.pdb
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar_arası_geçiş_2.Form1.resources
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar_arası_geçiş_2.Form2.resources
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.dll
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\refint\formlar arası geçiş 2.dll
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.pdb
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\ref\formlar arası geçiş 2.dll
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\bin\Debug\net6.0-windows\formlar arası geçiş 2.exe
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\bin\Debug\net6.0-windows\formlar arası geçiş 2.deps.json
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\bin\Debug\net6.0-windows\formlar arası geçiş 2.runtimeconfig.json
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\bin\Debug\net6.0-windows\formlar arası geçiş 2.dll
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\bin\Debug\net6.0-windows\formlar arası geçiş 2.pdb
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar_arası_geçiş_2.Form1.resources
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar_arası_geçiş_2.Form2.resources
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.dll
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\refint\formlar arası geçiş 2.dll
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.pdb
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\formlar arası geçiş 2.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\c# form\formlar arası geçiş 2\formlar arası geçiş 2\obj\Debug\net6.0-windows\ref\formlar arası geçiş 2.dll
