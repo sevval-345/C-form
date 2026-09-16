@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\bin\Debug\net6.0-windows\yunus hoca hesap makinesi.exe
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\bin\Debug\net6.0-windows\yunus hoca hesap makinesi.deps.json
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\bin\Debug\net6.0-windows\yunus hoca hesap makinesi.runtimeconfig.json
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\bin\Debug\net6.0-windows\yunus hoca hesap makinesi.dll
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\bin\Debug\net6.0-windows\yunus hoca hesap makinesi.pdb
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\yunus hoca hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\yunus_hoca_hesap_makinesi.Form1.resources
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\yunus hoca hesap makinesi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\yunus hoca hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\yunus hoca hesap makinesi.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\yunus hoca hesap makinesi.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\yunus hoca hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\yunus hoca hesap makinesi.dll
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\refint\yunus hoca hesap makinesi.dll
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\yunus hoca hesap makinesi.pdb
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\yunus hoca hesap makinesi.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\yunus hoca hesap makinesi\yunus hoca hesap makinesi\obj\Debug\net6.0-windows\ref\yunus hoca hesap makinesi.dll
